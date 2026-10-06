@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {"name": "Placa de vídeo", "query": "placa de video", "min_discount": 15, "relevance": 12},
+    {"name": "Processador", "query": "processador", "min_discount": 20, "relevance": 10},
+    {"name": "Placa-mãe", "query": "placa mae", "min_discount": 20, "relevance": 9},
+    {"name": "Memória RAM", "query": "memoria ram", "min_discount": 20, "relevance": 9},
+    {"name": "SSD", "query": "ssd", "min_discount": 20, "relevance": 11},
+    {"name": "HD", "query": "hd armazenamento", "min_discount": 20, "relevance": 7},
+    {"name": "Monitor", "query": "monitor", "min_discount": 20, "relevance": 12},
+    {"name": "Mouse", "query": "mouse gamer", "min_discount": 25, "relevance": 8},
+    {"name": "Teclado", "query": "teclado gamer", "min_discount": 20, "relevance": 8},
+    {"name": "Headset", "query": "headset gamer", "min_discount": 20, "relevance": 8},
+    {"name": "Microfone", "query": "microfone", "min_discount": 20, "relevance": 7},
+    {"name": "Webcam", "query": "webcam", "min_discount": 20, "relevance": 7},
+    {"name": "Notebook", "query": "notebook", "min_discount": 15, "relevance": 12},
+    {"name": "Smartphone", "query": "smartphone", "min_discount": 15, "relevance": 12},
+    {"name": "Smartwatch", "query": "smartwatch", "min_discount": 20, "relevance": 8},
+    {"name": "Console", "query": "console videogame", "min_discount": 15, "relevance": 11},
+    {"name": "Nintendo Switch", "query": "nintendo switch", "min_discount": 15, "relevance": 11},
+    {"name": "PlayStation", "query": "playstation", "min_discount": 15, "relevance": 11},
+    {"name": "Xbox", "query": "xbox", "min_discount": 15, "relevance": 11},
+    {"name": "Controle", "query": "controle videogame", "min_discount": 20, "relevance": 8},
+    {"name": "Cadeira gamer", "query": "cadeira gamer", "min_discount": 20, "relevance": 7},
+    {"name": "Mesa gamer", "query": "mesa gamer", "min_discount": 20, "relevance": 6},
+    {"name": "Fonte", "query": "fonte pc", "min_discount": 20, "relevance": 8},
+    {"name": "Gabinete", "query": "gabinete gamer", "min_discount": 20, "relevance": 7},
+    {"name": "Water cooler", "query": "water cooler", "min_discount": 20, "relevance": 8},
+    {"name": "Ventoinhas", "query": "ventoinha pc", "min_discount": 20, "relevance": 6},
+    {"name": "Roteador", "query": "roteador wifi", "min_discount": 20, "relevance": 8},
+    {"name": "Periféricos", "query": "perifericos gamer", "min_discount": 25, "relevance": 5}
+  ]
+}
+
